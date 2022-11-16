@@ -1,4 +1,5 @@
 from App.models import Review, Student, User
+from App.models import vCommand
 from App.database import db
 
 
